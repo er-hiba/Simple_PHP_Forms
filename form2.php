@@ -13,10 +13,14 @@
             width: 100%;
         }
 
+        body {
+            display: flex;
+        }
+
     </style>
 </head>
 <body>
-   <div class="container" style="width: 500px; margin-top:30px">
+   <div class="container" style="width: 500px; margin:40px 100px 0 40px">
     <form action="" method="POST">
         <label for="name" class="form-label">Last Name:</label>
         <input type="text" class="form-control" id="name" name="name">
@@ -49,7 +53,7 @@
         $gender = htmlspecialchars($_POST["gender"]);
         $course = htmlspecialchars($_POST["course"]);
 
-        echo '<div style="height: fit-content; color: blue; padding: 30px; padding-left: 70px; margin-top: 50px; font-family:Consolas">';
+        echo '<div style="height: fit-content; color: blue; padding: 30px; margin-top: 100px; font-family:Consolas; box-shadow: 1px 1px 15px 1px">';
         echo "<p style='font-size: 20px;'>Last name: $name </p>";
         echo "<p style='font-size: 20px;'>First name: $first_name </p>";
         echo "<p style='font-size: 20px;'>Gender: $gender </p>";
