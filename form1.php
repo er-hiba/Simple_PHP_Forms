@@ -31,7 +31,7 @@
 
 <body>
     <div class="container">
-    <form action="ex1.php" method="post">
+    <form action="" method="post">
         <label for="fname" class="form-label">First Name:</label>
         <input type="text" name="first_name" id="fname" class="form-control" placeholder="First Name" >
         <label for="lname" class="form-label">Last Name:</label>
