@@ -9,10 +9,10 @@ All forms are styled using Bootstrap.
 
 ## Screenshots
 
-| Form 1 | Form 2 |
-|--------|--------|
-| ![Form 1](form1.png) | ![Form 2](form2.png) |
+| Form 1 | Form 2 | Form 3 |
+|--------|--------|--------|
+| ![Form 1](form1.png) | ![Form 2](form2.png) | ![Form 3](form3.png) |
 
-| Form 3 |
-|--------|
-| ![Form 3](form3.png) |
+<img src="form1-1.png">
+<img src="form2-1.png">
+<img src="form3-1.png">
