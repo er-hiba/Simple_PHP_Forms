@@ -6,3 +6,6 @@ A collection of three simple PHP forms demonstrating form creation, data submiss
 ♡ The third form collects last name, first name, address, city, and postal code, displaying the information in a table format.  
 
 All forms are styled using Bootstrap.
+
+## Screenshots
+<img src="form1.png">  <img src="form2.png">  <img src="form3.png">
